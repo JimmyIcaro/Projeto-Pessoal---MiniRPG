@@ -9,4 +9,4 @@ Planejamentos de adições futuras :
   banco com os itens que podem aparecer em baús
   -Adicionar um evento onde você pode ganhar o jogo
 
-Há muito trabalho a ser feito
+Há muito trabalho a ser feito.
